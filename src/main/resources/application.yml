@@ -11,4 +11,4 @@ spring:
     open-in-view: false
   application:
     name: backend-challenge
-server.servlet.context-path: /${spring.application.name}
+server.servlet.context-path: /

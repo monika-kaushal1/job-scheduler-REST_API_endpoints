@@ -1,6 +1,6 @@
-package com.zenjob.challenge.repository;
+package com.challenge.repository;
 
-import com.zenjob.challenge.entity.Job;
+import com.challenge.entity.Job;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

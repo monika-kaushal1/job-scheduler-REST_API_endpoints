@@ -1,4 +1,4 @@
-# Zenjob Coding Challenge
+# Coding Challenge
 
 This is a **backend coding challenge**, containing **three different tasks**. The repository consists of a simplified version of Zenjob's platform:
 
@@ -50,16 +50,3 @@ Your job is to modify the existing service so it satisfies the following require
 - **I CAN** cancel all of my shifts which were booked for a specific talent
 - **AND** replacement shifts are created with the same dates
 
-## Evaluation criteria
-
-Your submission will be evaluated by at least 2 people on the following criteria:
-
-- Completeness
-- API design
-- Tests
-- Solution design
-- Code styling
-
-## Final notes
-
-If you have any questions, feel free to reach out to us at any time.

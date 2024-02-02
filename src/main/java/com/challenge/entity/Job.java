@@ -1,4 +1,4 @@
-package com.zenjob.challenge.entity;
+package com.challenge.entity;
 
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;

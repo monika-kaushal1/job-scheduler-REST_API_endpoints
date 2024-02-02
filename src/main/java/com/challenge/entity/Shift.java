@@ -1,4 +1,4 @@
-package com.zenjob.challenge.entity;
+package com.challenge.entity;
 
 import lombok.*;
 import lombok.experimental.Accessors;
@@ -19,6 +19,7 @@ import java.util.UUID;
 @Setter
 @Accessors(chain = true)
 @EntityListeners(AuditingEntityListener.class)
+@ToString
 public class Shift {
     @Id
     @GeneratedValue(generator = "UUID")
